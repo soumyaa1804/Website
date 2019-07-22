@@ -148,13 +148,13 @@ header a {
 .rightTab {
   display: inline-block;
   text-align: left;
-  width: 55%;
+  width: 50%;
   vertical-align: middle;
 }
 
 .input-field {
   height: 20px;
-  width: 250px;
+  width: calc(100% - 20px);
   padding: 5px;
   margin: 10px;
   border: 1px solid #c0c0c0;
