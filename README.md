@@ -1,2 +1,2 @@
 # Website
-Initial website.
+First web project
